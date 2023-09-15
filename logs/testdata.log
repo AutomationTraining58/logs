@@ -1,0 +1,10 @@
+09:42:07.184 [main] INFO  TestLog - webdriver invocation is done
+09:42:07.190 [main] FATAL TestLog - this is fatal message
+09:42:07.190 [main] DEBUG TestLog - debug started
+09:42:07.190 [main] WARN  TestLog - test case may fail after entering this particular block
+09:42:07.191 [main] ERROR TestLog - this test case got failed
+09:42:38.339 [main] INFO  TestLog - webdriver invocation is done
+09:42:38.344 [main] FATAL TestLog - this is fatal message
+09:42:38.344 [main] DEBUG TestLog - debug started
+09:42:38.344 [main] WARN  TestLog - test case may fail after entering this particular block
+09:42:38.405 [main] ERROR TestLog - this test case got failed
